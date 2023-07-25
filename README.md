@@ -1,2 +1,2 @@
 # Fake-News-Detection
- Detecting Fake News using keras/colab
+ Detecting Fake News using TfidfVectorizer & PassiveAggressiveClassifier (Accuracy: 93.05%)
